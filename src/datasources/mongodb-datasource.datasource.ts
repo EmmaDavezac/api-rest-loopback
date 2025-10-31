@@ -4,7 +4,7 @@ import {juggler} from '@loopback/repository';
 const config = {
   name: 'DatasourceMongodb2',
   connector: 'mongodb',
-  url: 'mongodb+srv://lucianodavezac_db_user:NpGI6eRypxp5loV@cluster0.nrpx7.mongodb.net/?retryWrites=true&w=majority&appName=BetoDB',
+  url: 'mongodb+srv://lucianodavezac_db_user:iNpGI6eRypxp5loV@mongoapirest.wapgdbx.mongodb.net/?appName=MongoApiRest',
   host: '',
   port: 0,
   user: '',
